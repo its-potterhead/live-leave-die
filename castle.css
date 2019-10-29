@@ -119,7 +119,10 @@ html,body{
 }
 
 .icon{
-    width: 10%;
     color: rgb(77, 77, 77);
     font-size: 40px;
+    margin-left: 60px;
+}
+.icon:first-child{
+    margin-left: 0;
 }
